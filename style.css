@@ -15,7 +15,7 @@ body {
 .clock {
   width: 450px;
   height: 450px;
-  background: url(media/clock.png);
+  background: url(clock.png);
   display: flex;
   justify-content: center;
   align-items: center;
